@@ -1,10 +1,4 @@
 ### Olá eu sou o Matheus Duarte
-
-<!--
-**mathwidu/Mathwidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou estudando atualmente front-end
 - 📫 Me contate pelo e-mail Matheuswmd@gmail.com
