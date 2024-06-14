@@ -1,6 +1,6 @@
 ### Olá eu sou o Matheus Duarte
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando atualmente front-end
+- 🔭 Hoje estudo para back-end
+- 🌱 Estou estudando atualmente Java para back-end 
 - 📫 Me contate pelo e-mail Matheuswmd@gmail.com
 
 <div style="display: inline_block"><br>
