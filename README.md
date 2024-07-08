@@ -1,6 +1,7 @@
 ### Olá eu sou o Matheus Duarte
-- 🔭 Hoje estudo para back-end
-- 🌱 Estou estudando atualmente Java para back-end 
+- 🔭 Meu objetivo é o Full Stack
+- 🌱 Estou estudando atualmente Java para back-end
+- Já estudei HTML e CSS básico.
 - 📫 Me contate pelo e-mail Matheuswmd@gmail.com
 
 <div style="display: inline_block"><br>
